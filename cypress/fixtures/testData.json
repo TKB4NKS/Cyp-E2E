@@ -10,5 +10,9 @@
 
     "message":{
         "successMessage": "Success: You have added MacBook to your shopping cart"
+    },
+
+    "message2": {
+        "successMessage2": "2 item(s) - $1,204.00"
     }
 }

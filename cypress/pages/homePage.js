@@ -7,7 +7,8 @@ export class homePage{
         click_search: 'button.btn.btn-default.btn-lg',
         product: 'img[title="MacBook"]',
         addtocart: 'Add to Cart',
-        successMessages: 'div.alert.alert-success.alert-dismissible'
+        successMessages: 'div.alert.alert-success.alert-dismissible',
+        
 
     }
 
@@ -23,4 +24,6 @@ export class homePage{
     verifySuccessMessage(){
         return cy.get(this.weblocators.successMessages)
     }
+
+
 }
