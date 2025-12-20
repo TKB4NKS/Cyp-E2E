@@ -1,4 +1,4 @@
-name: Regression Test End-to-end tests
+name: Sanity Build
 on: push
 jobs:
   cypress-run:
