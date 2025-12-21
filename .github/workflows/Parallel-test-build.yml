@@ -1,4 +1,4 @@
-name: Parallel Test Build
+name: Parallel Test Build mod
 on: push
 jobs:
   Add-To-Cart-run:
